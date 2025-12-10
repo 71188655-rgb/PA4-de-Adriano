@@ -68,7 +68,7 @@
 
 <body data-spy="scroll" data-target="#navbar">
 
-<!-- NAVBAR -->
+
 <nav id="navbar" class="navbar navbar-expand-lg navbar-dark fixed-top">
   <a class="navbar-brand font-weight-bold" href="#">HACKERS ACADEMY</a>
 
@@ -89,7 +89,6 @@
   </div>
 </nav>
 
-<!-- CAROUSEL -->
 <div id="Home" class="carousel slide mt-5" data-ride="carousel">
 
   <ol class="carousel-indicators">
@@ -206,7 +205,7 @@
 
 </section>
 
-<!-- TEAM -->
+
 <section id="Team" class="container py-5">
   <h2 class="text-center mb-4">OUR TEAM</h2>
 
@@ -239,14 +238,13 @@
   </div>
 </section>
 
-<!-- CONTACT -->
-<!-- CONTACT -->
+
 <section id="Contact" class="container py-5">
   <h2 class="text-center mb-4">JOIN US / CONTACT</h2>
 
   <div class="row">
 
-    <!-- COLUMNA DEL FORMULARIO -->
+   
     <div class="col-md-6">
       <form>
 
@@ -286,7 +284,7 @@
 </section>
 
 
-<!-- FOOTER -->
+
 <footer class="text-center text-light py-4">
   <p class="mb-2">© 2025 Hackers Academy — Derechos reservados</p>
 
@@ -297,7 +295,7 @@
   </div>
 </footer>
 
-<!-- JS -->
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
